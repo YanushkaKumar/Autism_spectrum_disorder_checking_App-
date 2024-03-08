@@ -23,7 +23,7 @@ The Autism Spectrum Disorder Checking App is a powerful tool designed to assist 
 ## Contributors
 
 - [Yanushka Kumar](https://github.com/YanushkaKumar)
-- [Umanda Wanninayaka](https://github.com/RaviX27/Multilingual-Spam-Detector/commits?author=RaviX27)
+- [Umanda Wanninayaka](https://github.com/RaviX27)
 
 ## Contributing
 
